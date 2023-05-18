@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-/*
- * main - prints \"Programming is like building a multilingual puzzle
- * using puts function
- *
+/**
+ * main - Its a program that prints exactly \"Programming
+ * is like building a multilingual puzzle in puts function
  * Return: 0
  */
 int main(void)
