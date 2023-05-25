@@ -2,7 +2,8 @@
 
 /**
  * add - This function adds two integers and returns the result
- * @sum: number to be checked
+ * @x: number to be added
+ * @y: number to be added
  * Return: 0
  */
 int add(int x, int y)
